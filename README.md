@@ -14,7 +14,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=littlesthar&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /> 
 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlesthar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlesthar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ---
