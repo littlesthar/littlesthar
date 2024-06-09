@@ -5,7 +5,7 @@
 
 ~ I'm young Developer
 
-~ I already counted on: `.CSS3` | `.HTML5` |
+~ I already counted on: `.CSS` | `.HTML` | `.JavaScript`
 
 ~ I am passionate about developing projects
 
