@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=6A5ACD"/>
 
 ## Hii, I'm Esther Fernandes
+
 ✨ **Be Welcome** ✨
 
 ~ I'm young Developer
 
-~ I already counted on: `.CSS` | `.HTML` | `.JavaScript`
+~ Developing solutions while learning and sharing knowledge.
 
-~ I am passionate about developing projects
+~ Currently dominating:: `.CSS` | `.HTML` | `.JavaScript`
 
 ---
 
