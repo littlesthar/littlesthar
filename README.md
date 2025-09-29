@@ -8,7 +8,7 @@
 
 ~ Developing solutions while learning and sharing knowledge.
 
-~ Currently dominating:: `.CSS` | `.HTML` | `.JavaScript`
+~ Currently dominating:: `.CSS` | `.HTML` | `.JavaScript` | `.React`
 
 ---
 
