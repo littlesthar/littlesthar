@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=6A5ACD"/>
 
 ## Hii, I'm Esther Fernandes
 
