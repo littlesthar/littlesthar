@@ -1,13 +1,14 @@
 
 ## Hii, I'm Esther Fernandes
 
-✨ **Be Welcome** ✨
+✨ **Welcome to my GitHub profile** ✨
 
-~ I'm young Developer
+~ I'm a passionate **Front-End Developer** who's constantly learning.
 
-~ Developing solutions while learning and sharing knowledge.
+~ Focused on building clean, modern, and responsive interfaces.
 
-~ Currently dominating:: `.CSS` | `.HTML` | `.JavaScript` | `.React`
+~ Always seeking creative solutions and sharing knowledge.
+
 
 ---
 
