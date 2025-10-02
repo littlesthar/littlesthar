@@ -19,13 +19,30 @@
 
 ---
 
-###  Styling Languages 
+###  Languages and Technologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</a>
   <img align="right" alt="tete" src="https://i.picasion.com/pic92/6140f007bf6ada1332e704adece0d214.gif">
+</div>
+
+---
+
+###  Frameworks and Libraries
+<div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+</div>
+
+---
+
+###  Tools and Platforms
+<div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,notion,vscode"/>
+</a>
 </div>
 
 ---
@@ -37,11 +54,6 @@
   <a href="https://www.linkedin.com/in/esther-fernandes-194030314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
----
- 
- ### Tools and Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,notion,vscode," />
-</a>
+
 
 
